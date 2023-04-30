@@ -1,0 +1,50 @@
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\SiteYonetimSistemi.exe.config
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\SiteYonetimSistemi.exe
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\SiteYonetimSistemi.pdb
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\MySql.Data.dll
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Buffers.dll
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Memory.dll
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Buffers.xml
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Memory.xml
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.Form3.resources
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.Properties.Resources.resources
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.CopyComplete
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.exe
+C:\Users\orcun\Desktop\LARA SİTESİ 10.08.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.pdb
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\SiteYonetimSistemi.exe.config
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\SiteYonetimSistemi.exe
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\SiteYonetimSistemi.pdb
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\DocumentFormat.OpenXml.dll
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\MySql.Data.dll
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Buffers.dll
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Memory.dll
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.dll
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\DocumentFormat.OpenXml.xml
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Buffers.xml
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Memory.xml
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Numerics.Vectors.xml
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.AssemblyReference.cache
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.SuggestedBindingRedirects.cache
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.Form3.resources
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.Properties.Resources.resources
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.GenerateResource.cache
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.CoreCompileInputs.cache
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.csproj.CopyComplete
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.exe
+D:\10.08.2022 MyProjects\LARA SİTESİ 03.11.22\WindowsFormsApp1\obj\Release\SiteYonetimSistemi.pdb
